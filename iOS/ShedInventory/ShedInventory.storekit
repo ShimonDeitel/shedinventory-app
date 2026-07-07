@@ -1,0 +1,29 @@
+{
+  "identifier" : "com.shimondeitel.shedinventory.pro",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.shedinventory.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Pro features",
+          "displayName" : "Shed Inventory Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.shedinventory.pro",
+      "referenceName" : "Shed Inventory Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
